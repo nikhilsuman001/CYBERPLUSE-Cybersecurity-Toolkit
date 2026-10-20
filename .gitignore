@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific files
+activity.log
+screenshots/
+keys/
+password_data/
+
+# Generated reports
+security_report_*.xlsx
+security_report_*.csv
+
+# Environment secrets
+.env
+.env.*
