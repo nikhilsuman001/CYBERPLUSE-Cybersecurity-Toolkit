@@ -1,0 +1,12 @@
+# CyberPulse Modular Security & Automation Toolkit
+# Python Dependencies
+
+customtkinter>=5.2.0
+pillow>=10.0.0
+requests>=2.31.0
+cryptography>=41.0.0
+psutil>=5.9.0
+pyautogui>=0.9.54
+openpyxl>=3.1.2
+dnspython>=2.4.0
+python-docx>=1.1.0
